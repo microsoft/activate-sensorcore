@@ -61,7 +61,7 @@ namespace Steps.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This developer sample demonstrates Nokia SensorCore SDK Steps API functionality..
+        ///   Looks up a localized string similar to This developer sample demonstrates SensorCore SDK Steps API functionality..
         /// </summary>
         public static string AboutDescription {
             get {
@@ -70,7 +70,7 @@ namespace Steps.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This Nokia developer example application has been created to provide tips and best practice guidance for software developers and app designers, and may not have all the features you would expect in a commercial product. This application is published in Store as a free software as it may also have value to regular Nokia phone users. The source code and documentation of this example can be downloaded from Nokia Developer website..
+        ///   Looks up a localized string similar to This developer example application has been created to provide tips and best practice guidance for software developers and app designers, and may not have all the features you would expect in a commercial product. This application is published in Store as a free software as it may also have value to regular phone users. The source code and documentation of this example can be downloaded from Nokia Developer website..
         /// </summary>
         public static string AboutDisclaimer {
             get {
